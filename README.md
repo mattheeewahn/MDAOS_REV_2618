@@ -1,4 +1,4 @@
-# Simple x86 real-mode operating system 
+# x86 OS for MDA80486
 
 Matthew OS is simple x86 real-mode operating system written in C. It uses GCC to generate code for i386 and higher. This customized build boots to a Matthew OS DOS-like shell
 
